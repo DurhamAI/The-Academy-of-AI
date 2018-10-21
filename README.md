@@ -1,4 +1,4 @@
-# The-Academy-of-AI
+# The Academy of AI by DAIS
 
 Thanks to The Academy of AI, we are glad to share you the relevant information to create YOUR OWN AI project from scratch.
 
@@ -17,8 +17,8 @@ If you have any question, bug or other stuff, just mail us from durhamaisoc@gmai
 
   It teaches several libraries like numpy, matplotlib and also shows scientific programming like vectorization!
 
-3. Linear Regression
+### 3. Linear Regression
 
-4. Classification
+### 4. Classification
 
-5. Databases
+### 5. Databases
