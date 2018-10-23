@@ -19,6 +19,16 @@ If you have any question, bug or other stuff, just mail us from durhamaisoc@gmai
 
 ### 3. Linear Regression
 
+Introduces data science and its pipelines. Introduces Machine Learning methods including Supervised,Unsupervised and Reinforcement Learning. Explains Training models, cost functions, gradient descent, types of linear regression etc.
+
 ### 4. Classification
 
+Explains the difference between classification and linear regression. Introduces types of regressions such as softmax regression and explains the validation of dataset.
+
 ### 5. Databases
+
+Introduces databases: Database Management System (DBMS), Relational Model, Normalization types, SQL and its datatypes. 
+
+### TO BE CONTINUED
+
+Make sure you check our UsefulInfo repo to get the most of your learning!
